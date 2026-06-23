@@ -70,7 +70,7 @@ def generate_rirekisho(output_path):
 
     edu = [
         {'period': '20xx年4月～20xx年3月', 'name': 'ギムナジウム第4校', 'detail': '9学年卒業（ビシュケク）'},
-        {'period': '20xx年4月～20xx年3月', 'name': 'I.ラザコフ記念KSTU短大', 'detail': '機械工学技術学科 — テクニシャン'},  # Techician
+        {'period': '20xx年4月～20xx年3月', 'name': 'I.ラザコフ記念KSTU短大', 'detail': '機械工学技術学科 — テクニシャン（マナサ通り66、ビシュケク）'},
         {'period': '2024年', 'name': 'NAT N5', 'detail': '日本語能力試験 N5認定'},
         {'period': '現在', 'name': '学習中', 'detail': '日本語 N3/N4レベル、ITスキルも学習中'},
     ]
